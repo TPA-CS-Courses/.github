@@ -15,3 +15,4 @@
 - [ ] CS110L
   - [x] week1
   - [x] week2 
+  - [x] week3

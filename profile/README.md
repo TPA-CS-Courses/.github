@@ -18,7 +18,8 @@
     - [x] 2C
 - [ ] CS143
 - [ ] CMU15-213
-  -[ ] malloc-lab
+  - [ ] malloc-lab
+  
 - [ ] CS110L
   - [x] week1
   - [x] week2 

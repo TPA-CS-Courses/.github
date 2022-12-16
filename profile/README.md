@@ -22,6 +22,7 @@
 - [ ] tinykv
   - [x] lab1
   - [ ] lab2
+    - [x] 2A
 - [ ] CS143
 - [ ] CMU15-213
   - [x] malloc-lab

@@ -15,7 +15,8 @@
   - [x] lab1
   - [x] lab2
   - [x] lab3
-  - [ ] lab4
+  - [x] lab4
+  - [ ] lab5
 - [ ] 6.824
   - [x] lab2
     - [x] 2A

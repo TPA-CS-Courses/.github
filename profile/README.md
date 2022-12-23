@@ -36,5 +36,5 @@
   - [x] week3
   - [x] week4
   - [x] week5
- - [ ] 6.172
+- [ ] 6.172
   - [ ] lab3: Dynamic Memory Allocation

@@ -27,10 +27,12 @@
     - [x] 2D
 - [ ] tinykv
   - [x] lab1
-  - [ ] lab2
+  - [x] lab2
     - [x] 2A
     - [x] 2B
-    - [ ] 2C
+    - [x] 2C
+  - [ ] lab3
+  - [ ] lab4
 - [ ] CS143
 - [ ] CMU15-213
   - [x] malloc-lab

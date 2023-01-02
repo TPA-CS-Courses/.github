@@ -33,6 +33,7 @@
     - [x] 2C
   - [ ] lab3
   - [ ] lab4
+    - [x] 4A
 - [ ] CS143
 - [ ] CMU15-213
   - [x] malloc-lab

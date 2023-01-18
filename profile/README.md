@@ -34,6 +34,10 @@
   - [ ] lab3
   - [ ] lab4
     - [x] 4A
+- [ ] tinysql
+  - [x] lab1
+  - [x] lab2
+  - [x] lab3
 - [ ] CS143
 - [ ] CMU15-213
   - [x] malloc-lab

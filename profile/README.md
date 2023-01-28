@@ -32,6 +32,7 @@
     - [x] 2B
     - [x] 2C
   - [ ] lab3
+    - [x] 3A
   - [ ] lab4
     - [x] 4A
 - [ ] tinysql

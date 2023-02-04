@@ -1,17 +1,18 @@
 ## TO DO LIST
-- [ ] CS144
+- [ ] CS144 (2021 fall)
   - [x] lab0
   - [x] lab1
   - [x] lab2
   - [x] lab3
   - [x] lab4
-- [ ] CMU15-445
+- [ ] CMU15-445 (2022 fall)
   - [x] lab0
   - [x] lab1
   - [x] lab2
   - [x] lab3
+  - [x] lab4
 - [ ] 6.828
-- [ ] uCore
+- [ ] uCore (2015)
   - [x] lab1
   - [x] lab2
   - [x] lab3
@@ -19,7 +20,7 @@
   - [x] lab5
   - [x] lab6
   - [ ] lab7
-- [ ] 6.824
+- [ ] 6.824 (2022 spring)
   - [x] lab2
     - [x] 2A
     - [x] 2B
@@ -39,10 +40,16 @@
   - [x] lab1
   - [x] lab2
   - [x] lab3
+ 
 - [ ] CS143
+- [ ] EECS 665
+- [ ] CMPT 379
+- [ ] CSCD70
+
+
 - [ ] CMU15-213
   - [x] malloc-lab
-- [ ] CS110L
+- [ ] CS110L (2022 winter)
   - [x] week1
   - [x] week2 
   - [x] week3
@@ -50,3 +57,4 @@
   - [x] week5
 - [ ] 6.172
   - [ ] lab3: Dynamic Memory Allocation
+  
